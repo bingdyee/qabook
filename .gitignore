@@ -33,3 +33,4 @@ dist/
 
 *.faiss
 *.pkl
+.DS_Store
