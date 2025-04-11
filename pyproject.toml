@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "qa-book"
+name = "qabook"
 version = "1.0.0"
 license = "MIT"
 description = "China science fiction"
@@ -33,7 +33,7 @@ pypinyin = "^0.53.0"
 pytest = "^8.3.3"
 
 [tool.poetry.scripts]
-novelogic = "main:app"
+qabook = "main:app"
 
 [[tool.poetry.source]]
 name = "mirrors"
