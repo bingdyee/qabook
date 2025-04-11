@@ -10,3 +10,6 @@ poetry install
 ```shell
 scrapy crawl <spider_name>
 ```
+
+## [Download NLTK DATA](https://www.nltk.org/nltk_data/)
+<!-- https://www.oneclickitsolution.com/centerofexcellence/aiml/rag-system-deepseek-r1-ollama-langchain -->
